@@ -1,0 +1,199 @@
+* Opinion */
+.Descripcion{
+    background: white;
+    height: 260px;
+
+}
+
+.Descripcion h2{
+    text-align: center;
+}
+/* Clients */
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+}
+
+.cards .card{
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+    display: flex;
+    width: 46%;
+    height: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+}
+
+.cards .card img{
+    width: 150px;
+    height:150px;
+    object-fit: cover;
+    border: 3px solid black;
+    border-radius: 50%;
+    display: block;
+    
+}
+
+.cards .card > .contenido-texto-card{
+    width: 60%;
+    color: #fff;
+}
+
+.cards .card > .contenido-texto-card p{
+    font-weight: 300;
+    padding-top: 5px;
+    font-size: 30px;
+}
+
+
+.Otro{
+
+    background: white;
+    height: 260px;
+    align-items: flex-end;
+    
+}
+.Otro h2{
+    text-align: center;
+}
+/* Clients */
+
+.cards3{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cards .card{
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+    display: flex;
+    width: 46%;
+    height: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+}
+
+.cards .card img{
+    width: 150px;
+    height:150px;
+    object-fit: cover;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    display: block;
+    
+}
+
+.cards .card > .contenido-texto-card{
+    width: 60%;
+    color: #fff;
+}
+
+.cards .card > .contenido-texto-card p{
+    font-weight: 300;
+    padding-top: 5px;
+    font-size: 30px;
+}
+
+
+.Otro2{
+
+    background: white;
+    height: 260px;
+    align-items: flex-end;
+    
+}
+.Otro h2{
+    text-align: center;
+}
+/* Clients */
+
+.cards4{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cards .card{
+    background: #7fc8f8;
+    display: flex;
+    width: 46%;
+    height: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+}
+
+.cards .card img{
+    width: 150px;
+    height:150px;
+    object-fit: cover;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    display: block;
+    
+}
+
+.cards .card > .contenido-texto-card{
+    width: 60%;
+    color: #fff;
+}
+
+.cards .card > .contenido-texto-card p{
+    font-weight: 300;
+    padding-top: 5px;
+    font-size: 30px;
+}
+
+
+.Otro3{
+
+    background: white;
+    height: 260px;
+    align-items: flex-end;
+    
+}
+.Otro h2{
+    text-align: center;
+}
+/* Clients */
+
+.cards5{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cards .card{
+    background: #7fc8f8;
+    display: flex;
+    width: 46%;
+    height: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+}
+
+.cards .card img{
+    width: 150px;
+    height:150px;
+    object-fit: cover;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    display: block;
+    
+}
+
+.cards .card > .contenido-texto-card{
+    width: 60%;
+    color: #fff;
+}
+
+.cards .card > .contenido-texto-card p{
+    font-weight: 300;
+    padding-top: 5px;
+    font-size: 30px;
+}
